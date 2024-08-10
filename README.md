@@ -1,2 +1,2 @@
 # shouldiusegraphql.com
-the answer is yes
+the answer is no
